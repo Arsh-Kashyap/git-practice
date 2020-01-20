@@ -1,0 +1,8 @@
+The following commands will set your git commit username 
+git config --global user.name "Your Name"
+
+The following commands will set your email address:
+git config --global user.email "youremail@yourdomain.com"
+
+To verify the configuration changes, type:
+git config --list
