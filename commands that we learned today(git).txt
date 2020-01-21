@@ -2,7 +2,7 @@ initializing a new git repository
 git init
 
 Adding remote for your own repository
-git remote add origin link-to-your-repo
+git remote add origin hello link-to-your-repo
 
 Adding the remote for developer's repository
 git remote add upstream link-to-developer-repo
